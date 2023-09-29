@@ -54,8 +54,6 @@ Es un lenguaje de estilo utilizado para controlar la presentación y el diseño 
 </html>
 ````
 
-
-
-8. 
+8. Flujo de Trabajo
 
 ![U+200E](https://github.com/Pablocollado1/SMX2-M8UF1A2-PabloCollado/blob/main/Captura%20de%20pantalla%202023-09-29%20160640.png "IMAGEN")
