@@ -24,6 +24,9 @@ Práctica AF2
 
 6. ¿Qué es HTML ?
 
+
+7. ¿Qué es CSS?
+
 ````
 <!DOCTYPE html>
 <html lang="en">
@@ -37,9 +40,10 @@ Práctica AF2
 
 </body>
 </html>
+````
 
-7. ¿Qué es CSS?
+
 
 8. 
 
-![U+200E] https://github.com/Pablocollado1/SMX2-M8UF1A2-PabloCollado/blob/main/Captura%20de%20pantalla%202023-09-29%20160640.png
+![U+200E](https://github.com/Pablocollado1/SMX2-M8UF1A2-PabloCollado/blob/main/Captura%20de%20pantalla%202023-09-29%20160640.png "IMAGEN")
