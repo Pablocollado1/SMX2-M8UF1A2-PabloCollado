@@ -11,7 +11,7 @@ Práctica AF2
 
 4. ¿Qué es una herramienta ofimática?
 
-5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/)"Herramientas de Google
+5. [Herramientas de google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Descubre las herramientas integradas del navegador chrome")
 
 |Aplicaciones |Visto |
 |----------|----------:|
